@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IFamily</string>
+    <string name="facebook_application_id" translatable="false">437768986983417</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb437768986983417</string>
+    <string name="register_family">Register Family</string>
+    <string name="title_activity_notes_tabs">NotesTabs</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
